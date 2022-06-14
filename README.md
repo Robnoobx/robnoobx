@@ -1,4 +1,4 @@
-### Hi there 👋Eu  sou Robson Alves
+### Olá! Eu sou Robson Alves
 
 <!--
 **Robnoobx/robnoobx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-<div>
- 	<a href="https://github.com/robnoobx">
-	<img height="180em" src="https://github-readme-start.vercel.app/api?username=robnoobx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-	<img height="180em" src="https://github-readme-start.vercel.app/api/top-langs/?username=robnoobx&layout=compact&langs_count=16&theme=dracula"/>
-</div>
