@@ -15,3 +15,9 @@
     <img align="center" alt="html" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
     <img align="center" alt="html" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="html" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+    <img align="center" alt="html" src="https://img.shields.io/badge/cucumber-%2323D96C.svg?&style=for-the-badge&logo=cucumber&logoColor=white"/>
+
+   
+
+
+    
